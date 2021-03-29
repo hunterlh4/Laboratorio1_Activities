@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratorio1 - Activities</string>
+    <string name="Numeros"></string>
+    <string name="Precio"></string>
+    <string name="Calcular">Calcular</string>
+    <string name="añadir">añadir_precio</string>
+</resources>
